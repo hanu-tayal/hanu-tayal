@@ -8,7 +8,7 @@
 
 Building AI-powered tools that help engineering teams ship faster.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshutayal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayal)
 [![Email](https://img.shields.io/badge/Email-hanutayal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanutayal@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=hanu-tayal&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="400"/>
