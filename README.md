@@ -9,6 +9,7 @@
 Building AI-powered tools that help engineering teams ship faster.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanu-tayal)
 [![Email](https://img.shields.io/badge/Email-hanutayal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanutayal@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=hanu-tayal&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="400"/>
@@ -59,4 +60,4 @@ Building AI-powered tools that help engineering teams ship faster.
 
 ## Connect
 
-📫 **hanutayal@gmail.com** · [LinkedIn](https://www.linkedin.com/in/himanshutayal) · [ReRite](https://rerite.ai)
+📫 **hanutayal@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tayal) · [GitHub](https://github.com/hanu-tayal) · [ReRite](https://rerite.ai)
