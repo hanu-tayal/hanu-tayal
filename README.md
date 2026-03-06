@@ -34,20 +34,20 @@ Building AI-powered tools that help engineering teams ship faster.
 | Project | Description |
 |--------|-------------|
 | [**ReRite**](https://rerite.ai) | AI-powered legacy code modernization — COBOL, C# → TypeScript |
-| [**NoMoreOnCall**](https://github.com/hanu-tayal/NoMoreOnCall) | AI agents that replace human on-call engineers |
-| [**AITinkerers**](https://github.com/hanu-tayal/AITinkerers) | Automated system & database troubleshooting with runbooks |
-| [**ai-website-analyzer**](https://github.com/hanu-tayal/ai-website-analyzer) | AI-powered UX & website analysis tool (Claude) |
+| [**ai-oncall-agent**](https://github.com/hanu-tayal/ai-oncall-agent) | AI agents that replace human on-call engineers |
+| [**ai-troubleshooting-automation**](https://github.com/hanu-tayal/ai-troubleshooting-automation) | Automated system & database troubleshooting with runbooks |
+| [**ai-website-ux-analyzer**](https://github.com/hanu-tayal/ai-website-ux-analyzer) | AI-powered UX & website analysis tool (Claude) |
 
 ---
 
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/hanu-tayal/ai-website-analyzer"><img src="https://img.shields.io/badge/🔍_ai--website--analyzer-AI_UX_Analysis-181717?style=flat-square&logo=github" alt="ai-website-analyzer"></a>
-  <a href="https://github.com/hanu-tayal/NoMoreOnCall"><img src="https://img.shields.io/badge/🤖_NoMoreOnCall-AI_On--Call-181717?style=flat-square&logo=github" alt="NoMoreOnCall"></a>
-  <a href="https://github.com/hanu-tayal/AITinkerers"><img src="https://img.shields.io/badge/⚡_AITinkerers-Automated_Troubleshooting-181717?style=flat-square&logo=github" alt="AITinkerers"></a>
+  <a href="https://github.com/hanu-tayal/ai-website-ux-analyzer"><img src="https://img.shields.io/badge/🔍_ai--website--ux--analyzer-AI_UX_Analysis-181717?style=flat-square&logo=github" alt="ai-website-ux-analyzer"></a>
+  <a href="https://github.com/hanu-tayal/ai-oncall-agent"><img src="https://img.shields.io/badge/🤖_ai--oncall--agent-AI_On--Call-181717?style=flat-square&logo=github" alt="ai-oncall-agent"></a>
+  <a href="https://github.com/hanu-tayal/ai-troubleshooting-automation"><img src="https://img.shields.io/badge/⚡_ai--troubleshooting-Automated_Troubleshooting-181717?style=flat-square&logo=github" alt="ai-troubleshooting-automation"></a>
   <a href="https://github.com/hanu-tayal/Apollo-11"><img src="https://img.shields.io/badge/🚀_Apollo--11-AGC_Refactor-181717?style=flat-square&logo=github" alt="Apollo-11"></a>
-  <a href="https://github.com/hanu-tayal/rust-csharp-compiler"><img src="https://img.shields.io/badge/🦀_rust--csharp--compiler-C%23_in_Rust-181717?style=flat-square&logo=github" alt="rust-csharp-compiler"></a>
+  <a href="https://github.com/hanu-tayal/csharp-compiler-rust"><img src="https://img.shields.io/badge/🦀_csharp--compiler--rust-C%23_in_Rust-181717?style=flat-square&logo=github" alt="csharp-compiler-rust"></a>
 </p>
 
 ---
